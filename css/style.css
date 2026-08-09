@@ -32,6 +32,9 @@ img{
     max-width: 330px;
     margin-inline: auto;
 }
+.mv-first{
+    overflow-x: clip;
+}
 .button a{
     display: block;
     max-width: 330px;
